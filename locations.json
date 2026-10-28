@@ -58,7 +58,7 @@
     ],
     "link": "https://en.wikipedia.org/wiki/Eiffel_Tower"
   },
-  {
+{
     "name": "Louvre Museum",
     "cityName": "Paris",
     "coordinates": {
@@ -66,11 +66,27 @@
       "longitude": 2.3376
     },
     "description": "The Louvre, or the Louvre Museum, is the world's most-visited museum and a historic monument in Paris, France. It is the home of some of the best-known works of art, including the Mona Lisa and the Venus de Milo. A central landmark of the city, it is located on the Right Bank of the Seine in the city's 1st arrondissement.",
-    "imageNames": [
+      "imageNames": [
       "paris-louvre-1",
       "paris-louvre-2",
       "paris-louvre-3"
     ],
     "link": "https://en.wikipedia.org/wiki/Louvre"
+  },
+
+  {
+    "name": "Ontario",
+    "cityName": "Canada",
+    "coordinates": {
+      "latitude": 43.6511,
+      "longitude": 79.3470
+    },
+    "description": "Ontario is Canada most populous and second-largest province, serving as the country's economic and financial heartland.",
+      "imageNames": [
+      "",
+      "",
+      ""
+    ],
+    "link": "https://en.wikipedia.org/wiki/Ontario"
   }
 ]
